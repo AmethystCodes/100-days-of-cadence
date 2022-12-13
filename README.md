@@ -1,5 +1,7 @@
 # My #100DaysOfCadence Challenge
 
+*Fork this template for completing your 100 Days of Cadence journal*
+
 Tracking my 100 days of learning, coding, and researching Cadence
 
 | Start Date | End Date |
