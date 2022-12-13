@@ -6,7 +6,7 @@ Tracking my 100 days of learning, coding, and researching Cadence
 | :--------: | :------: |
 | Enter your start date   |  📆  |
 
-<mark>**Study Plan:** Minimum of 1 hour per day coding - reading - watching videos and document each day that is completed</mark>
+<mark>**Study Plan:** Minimum of 1 hour per day coding - reading - watching videos and document each day that is completed. Tweet using the **#100DaysOfCadence** to show your progress and connect with other developers!</mark>
 
 ## 🔍 What is Cadence?
 
