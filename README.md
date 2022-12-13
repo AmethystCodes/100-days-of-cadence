@@ -8,11 +8,13 @@ Tracking my 100 days of learning, coding, and researching Cadence
 | :--------: | :------: |
 | Enter your start date   |  📆  |
 
-<mark>**Study Plan:** Minimum of 1 hour per day coding - reading - watching videos and document each day that is completed. Tweet using the **#100DaysOfCadence** to show your progress and connect with other developers!</mark>
+## 📔 Study Plan
+- [x] Minimum of 1 hour per day coding - reading - watching videos and document each day that is completed 
+- [x] Tweet using the **#100DaysOfCadence** to show your progress and connect with other developers!
 
 ## 🔍 What is Cadence?
 
-Cadence is a resource-oriented programming language used for building smart contracts on the [Flow Blockchain](https://flow.com/).
+[Cadence](https://developers.flow.com/cadence#introduction-to-cadence:~:text=Started%20with%20Cadence-,Introduction%20to%20Cadence,-Updated%3A%202022) is a resource-oriented programming language used for building smart contracts on the [Flow Blockchain](https://flow.com/).
 
 ## 📚 Resources to Get Started
   * [Cadence Docs](https://developers.flow.com/cadence/language)
