@@ -19,6 +19,7 @@ Tracking my 100 days of learning, coding, and researching Cadence
 ## 📚 Resources to Get Started
   * [Cadence Docs](https://developers.flow.com/cadence/language)
   * [Flow Playground: Practice Cadence in browser](https://play.onflow.org/local-project)
+  * [Emerald Academy Beginner Cadence Bootcamp](https://github.com/emerald-dao/beginner-cadence-course)
   * [Emerald Academy](https://academy.ecdao.org/)
   * [Learn Cadence: Youtube Series](https://youtube.com/playlist?list=PLvcQxi9WyGdF32YuZABVTx-t3-FsBNCN2)
   * [Get-The-Flow-Down: Flow Learning Resources](https://github.com/ph0ph0/Get-The-Flow-Down)
